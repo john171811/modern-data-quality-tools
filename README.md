@@ -2,7 +2,7 @@ Top Modern Data Quality Tools for 2o24
 
 [Soda.io](https://www.soda.io/)  - Embed Soda data quality tests in the data stack and workflows your teams already use.
 
-[Digna](https://www.digna.ai/)  - A1-powered anonmaly dectection tool that detects anomalies in your data warehouse, lakes and lakehouses. 
+[Digna](https://www.digna.ai/)  - AI-powered anonmaly dectection tool that detects anomalies in your data warehouse, lakes and lakehouses. 
 
 [Anomalo](https://www.anomalo.com/) - An AI-powered automated data quality monitoring platform for enterprises.
 
